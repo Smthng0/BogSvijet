@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BogSvijet:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BogSvijet_jar</output-path>
+    <root id="archive" name="BogSvijet.jar">
+      <element id="module-output" name="BogSvijet" />
+    </root>
+  </artifact>
+</component>
