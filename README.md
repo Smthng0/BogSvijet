@@ -1,6 +1,3 @@
 # BogSvijet
 :D
-Tko sam ja.
-kusis....
-
-jos nesto...
+Prvi program
