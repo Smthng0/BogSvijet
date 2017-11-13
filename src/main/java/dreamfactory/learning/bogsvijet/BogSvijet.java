@@ -8,7 +8,7 @@ public class BogSvijet {
         Zec zec = new Zec();
 
         for (String argument : args) {
-            System.out.print(argument);
+            System.out.println(argument);
         }
         System.out.println();
     }
